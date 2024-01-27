@@ -1,0 +1,37 @@
+{
+    "title": "{{country}}のログイン",
+    "chooseCountry": "国を選択",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "firstName": "名",
+    "lastName": "姓",
+    "age": "年齢",
+    "login": "ログイン",
+    "welcome": "ようこそ",
+    "changeLanguage": "言語を変更",
+    "languages": {
+        "en": "英語",
+        "ja": "日本語",
+        "nl": "オランダ語"
+    },
+    "register": "登録",
+    "close": "閉じる",
+    "signup": "サインアップ",
+    "signIn": "サインイン",
+    "countryLabel": "続行するには国の選択が必要です。",
+    "validations": {
+        "usernameRequired": "ユーザー名を入力してください",
+        "usernameValid": "ユーザー名は指定された基準を満たしていません。",
+        "passwordRequired": "パスワードを入力してください",
+        "usernameHelperUAE": "ユーザー名は英数字で、少なくとも5文字以上である必要があります",
+        "usernameHelperIndia": "ユーザー名は文字で始まり、少なくとも6文字以上である必要があります",
+        "usernameHelperEgypt": "ユーザー名は英数字で、少なくとも8文字以上である必要があります",
+        "usernameHelperSaudia": "ユーザー名はアルファベットのみで、少なくとも10文字以上である必要があります",
+        "passwordValid": "パスワードは少なくとも8文字、少なくとも1つの数字、および少なくとも1つの特殊文字を含んでいる必要があります。",
+        "firstNameRequired": "名を入力してください",
+        "firstNameValid": "有効な名を入力してください",
+        "lastNameRequired": "姓を入力してください",
+        "lastNameValid": "有効な姓を入力してください"
+    },
+    "logOut": "ログアウト"
+}

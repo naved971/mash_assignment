@@ -1,0 +1,36 @@
+{
+    "title": "Account Creation for {{country}}",
+    "chooseCountry": "Choose country",
+    "username": "Username",
+    "password": "Password",
+    "firstName" : "First Name",
+    "lastName" : "Last Name",
+    "age":"Age",
+    "login": "Login",
+    "welcome": "Welcome",
+    "changeLanguage": "Change language",
+    "languages" : {
+       "en": "English",
+       "ja": "Japanese",
+       "nl": "Dutch"
+    },
+    "register" : "Register",
+    "close": "Close",
+    "signup" : "Sign up",
+    "countryLabel": "Country selection required to proceed.",
+    "validations": {
+        "usernameRequired" : "Must provide Username",
+        "usernameValid": "The username does not meet the specified criteria.",
+        "passwordRequired": "Must provide Password",
+        "usernameHelperUAE" : "Username must be alphanumeric and at least 5 characters long",
+        "usernameHelperIndia" : "Username must start with a letter and be at least 6 characters long",
+        "usernameHelperEgypt" : "Username must be alphanumeric and be at least 8 characters long",
+        "usernameHelperSaudia" : "Username must be aphabets only and be at least 10 characters long",
+        "passwordValid": "Password must contains at least eight characters, at least one number, and at least one special character.",
+        "firstNameRequired" : "Must provide First Name",
+        "firstNameValid": "Must provide valid First Name",
+        "lastNameRequired" : "Must provide Last Name",
+        "lastNameValid": "Must provide valid Last Name"
+    },
+    "logOut" : "Log out"
+}

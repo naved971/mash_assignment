@@ -1,0 +1,37 @@
+{
+    "title": "Inloggen voor {{country}}",
+    "chooseCountry": "Kies land",
+    "username": "Gebruikersnaam",
+    "password": "Wachtwoord",
+    "firstName": "Voornaam",
+    "lastName": "Achternaam",
+    "age": "Leeftijd",
+    "login": "Inloggen",
+    "welcome": "Welkom",
+    "changeLanguage": "Taal wijzigen",
+    "languages": {
+        "en": "Engels",
+        "ja": "Japans",
+        "nl": "Nederlands"
+    },
+    "register": "Registreren",
+    "close": "Sluiten",
+    "signup": "Aanmelden",
+    "signIn": "Aanmelden",
+    "countryLabel": "Landselectie vereist om verder te gaan.",
+    "validations": {
+        "usernameRequired": "Gebruikersnaam verplicht",
+        "usernameValid": "De gebruikersnaam voldoet niet aan de opgegeven criteria.",
+        "passwordRequired": "Wachtwoord verplicht",
+        "usernameHelperUAE": "Gebruikersnaam moet alfanumeriek zijn en minimaal 5 tekens lang",
+        "usernameHelperIndia": "Gebruikersnaam moet beginnen met een letter en minimaal 6 tekens lang zijn",
+        "usernameHelperEgypt": "Gebruikersnaam moet alfanumeriek zijn en minimaal 8 tekens lang zijn",
+        "usernameHelperSaudia": "Gebruikersnaam moet alleen letters bevatten en minimaal 10 tekens lang zijn",
+        "passwordValid": "Wachtwoord moet minimaal acht tekens bevatten, ten minste één cijfer en ten minste één speciaal karakter.",
+        "firstNameRequired": "Voornaam verplicht",
+        "firstNameValid": "Voer een geldige voornaam in",
+        "lastNameRequired": "Achternaam verplicht",
+        "lastNameValid": "Voer een geldige achternaam in"
+    },
+    "logOut": "Uitloggen"
+}

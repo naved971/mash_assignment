@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095088058548",
+    "project_id": "mashreqtestgtl",
+    "storage_bucket": "mashreqtestgtl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095088058548:android:84e80504a6a7ed87a267e1",
+        "android_client_info": {
+          "package_name": "com.mashreqmobileapptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAecATTv0LZUOYlz8jdERZ6EyUBFpDO3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
